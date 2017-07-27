@@ -32,6 +32,6 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (edited)
 
 * SSR c#  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/windows%20client/ShadowsocksR-win-4.7.0.zip
  
-  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip(Repair pac)
+  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip (Repair pac)
 
 ## See the client folder for historical versions
