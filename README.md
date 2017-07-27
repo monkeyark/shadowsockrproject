@@ -30,6 +30,8 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (edited)
 
 * SSR android   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/android%20client/ssr_3.4.0.6.apk
 
-* SSR c#  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/windows%20client/ShadowsocksR-win-4.7.0.zip
+* SSR c#  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/windows%20client/ShadowsocksR-win-4.7.0.zip
+ 
+  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip(Repair pac)
 
 ## See the client folder for historical versions
