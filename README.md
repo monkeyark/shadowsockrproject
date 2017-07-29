@@ -16,21 +16,15 @@ Main branch
 
 * shadowsocks-rss https://github.com/shadowsocksr-rm/shadowsocks-rss
 
-* openwrt-shadowsocksR-libev-full
-
-  https://github.com/bettermanbao/openwrt-shadowsocksR-libev-full/tree/master
+* openwrt-shadowsocksR-libev-full https://github.com/bettermanbao/openwrt-shadowsocksR-libev-full/tree/master
 
   fork https://github.com/shadowsocksr-rm/openwrt-shadowsocksR-libev-full/tree/master
 
-* openwrt-shadowsocks
-
-  https://github.com/shadowsocks/openwrt-shadowsocks
+* openwrt-shadowsocks https://github.com/shadowsocks/openwrt-shadowsocks
 
   fork https://github.com/shadowsocksr-rm/openwrt-shadowsocksr
   
-* luci-app-shadowsocks
-  
-  https://github.com/shadowsocks/luci-app-shadowsocks
+* luci-app-shadowsocks https://github.com/shadowsocks/luci-app-shadowsocks
   
   fork https://github.com/shadowsocksr-rm/luci-app-shadowsocksr
   
@@ -47,9 +41,7 @@ Main branch
 
   backup fork Ssrbackup/pubkey
   
-* qinyuhang/shadowsocksX-NG-R-ACL
-
-  https://github.com/qinyuhang/shadowsocksX-NG-R-ACL
+* qinyuhang/shadowsocksX-NG-R-ACL https://github.com/qinyuhang/shadowsocksX-NG-R-ACL
   
   fork https://github.com/shadowsocksr-rm/shadowsocksX-NG-R-ACL
 
