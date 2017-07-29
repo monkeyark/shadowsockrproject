@@ -14,15 +14,15 @@
 
 ### other
 
-breakwa11.github.io fork 14days ago(20170729)
+* breakwa11.github.io fork 14days ago(20170729)
 
-https://github.com/solomasters/breakwa11.github.io/tree/master
+  https://github.com/solomasters/breakwa11.github.io/tree/master
 
-backup forkd Ssrbackup/reakwa11.github.io
+  backup forkd Ssrbackup/reakwa11.github.io
 
-pubkey https://github.com/breakwa11/pubkey
+* pubkey https://github.com/breakwa11/pubkey
 
-backup forkd Ssrbackup/pubkey
+  backup forkd Ssrbackup/pubkey
 
 ### forkd organization
 
