@@ -1,8 +1,8 @@
 # SSR项目备份
 
-## 各项目fork链接
+### 各项目fork链接
 
-Main branch
+  Main branch
 
 * SSR python  https://github.com/shadowsocksr-rm/shadowsocksr
 
@@ -45,7 +45,7 @@ Main branch
   
   fork https://github.com/shadowsocksr-rm/shadowsocksX-NG-R-ACL
 
-## forkd organization
+### forkd organization
 
 以下三个organization 均已fork ssr所有项目
 
@@ -58,13 +58,13 @@ Main branch
 
 由建立时间前后排序
 
-## wiki备份
+### wiki备份
 
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
-## 最新版本下载
+### 最新版本下载
 
-### 常用服务端代码备份
+#### 常用服务端代码备份
 
 * SSR python  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/code/shadowsocksr.zip
 
@@ -72,7 +72,7 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
 克隆自ssr fork项目 zip文件 linux系统请按装 unzip   使用命令  `unzip 文件名解压`
 
-### 常用客户端
+#### 常用客户端
 
 * SSR android   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/android%20client/ssr_3.4.0.6.apk
 
