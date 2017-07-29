@@ -10,7 +10,32 @@
 
 * SSR libev https://github.com/shadowsocksrr/shadowsocksr-libev
 
-other https://github.com/shadowsocksr-rm or https://github.com/shadowsocksrr
+* SSR X NG https://github.com/shadowsocksr-rm/ShadowsocksX-NG
+
+### other
+
+breakwa11.github.io fork 14days ago(20170729)
+
+https://github.com/solomasters/breakwa11.github.io/tree/master
+
+backup forkd Ssrbackup/reakwa11.github.io
+
+pubkey https://github.com/breakwa11/pubkey
+
+backup forkd Ssrbackup/pubkey
+
+### forkd organization
+
+以下三个organization 均已fork ssr所有项目
+
+http://github.com/shadowsocksr-rm
+
+http://github.com/shadowsocksrr
+
+http://github.com/shadowsocksr-backup
+
+
+由建立时间前后排序
 
 ## wiki备份
 
