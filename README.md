@@ -12,6 +12,8 @@
 
 * SSR X NG https://github.com/shadowsocksr-rm/ShadowsocksX-NG
 
+* shadowsocks-rss https://github.com/shadowsocksr-rm/shadowsocks-rss
+
 ### other
 
 * breakwa11.github.io fork 14days ago(20170729)
