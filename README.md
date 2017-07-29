@@ -20,25 +20,19 @@ Main branch
 
   https://github.com/bettermanbao/openwrt-shadowsocksR-libev-full/tree/master
 
-  fork
-
-  https://github.com/shadowsocksr-rm/openwrt-shadowsocksR-libev-full/tree/master
+  fork https://github.com/shadowsocksr-rm/openwrt-shadowsocksR-libev-full/tree/master
 
 * openwrt-shadowsocks
 
   https://github.com/shadowsocks/openwrt-shadowsocks
 
-  fork
-
-  https://github.com/shadowsocksr-rm/openwrt-shadowsocksr
+  fork https://github.com/shadowsocksr-rm/openwrt-shadowsocksr
   
 * luci-app-shadowsocks
   
   https://github.com/shadowsocks/luci-app-shadowsocks
   
-  fork
-  
-  https://github.com/shadowsocksr-rm/luci-app-shadowsocksr
+  fork https://github.com/shadowsocksr-rm/luci-app-shadowsocksr
   
 
 ### other
@@ -57,9 +51,7 @@ Main branch
 
   https://github.com/qinyuhang/shadowsocksX-NG-R-ACL
   
-  fork
-  
-  https://github.com/shadowsocksr-rm/shadowsocksX-NG-R-ACL
+  fork https://github.com/shadowsocksr-rm/shadowsocksX-NG-R-ACL
 
 ## forkd organization
 
