@@ -18,17 +18,17 @@
 
   https://github.com/bettermanbao/openwrt-shadowsocksR-libev-full/tree/master
 
-  forkd
+  fork
 
   https://github.com/shadowsocksr-rm/openwrt-shadowsocksR-libev-full/tree/master
 
 * openwrt-shadowsocks
 
- https://github.com/shadowsocks/openwrt-shadowsocks
+  https://github.com/shadowsocks/openwrt-shadowsocks
 
- forkd 
+  fork
 
- https://github.com/shadowsocksr-rm/openwrt-shadowsocksr
+  https://github.com/shadowsocksr-rm/openwrt-shadowsocksr
 
 ### other
 
@@ -36,11 +36,11 @@
 
   https://github.com/solomasters/breakwa11.github.io/tree/master
 
-  backup forkd Ssrbackup/reakwa11.github.io
+  backup fork Ssrbackup/reakwa11.github.io
 
 * pubkey https://github.com/breakwa11/pubkey
 
-  backup forkd Ssrbackup/pubkey
+  backup fork Ssrbackup/pubkey
 
 ## forkd organization
 
