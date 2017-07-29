@@ -81,3 +81,5 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
   更多请前往fork 下载使用
 
 ### 历史版本请前往对应文件夹
+
+内容有错误 或者有问题 请联系tg https://t.me/Spamuser
