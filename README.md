@@ -1,4 +1,4 @@
-# SSR项目备份
+# ShadowsocksR project backup
 
 ## 各项目fork链接
 
@@ -61,8 +61,6 @@
 ## wiki备份
 
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
-
-### 最新版本下载
 
 #### 常用服务端代码备份
 
