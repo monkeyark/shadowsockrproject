@@ -45,7 +45,7 @@
   
   fork https://github.com/shadowsocksr-rm/shadowsocksX-NG-R-ACL
 
-## forkd organization
+### fork organization
 
 以下三个organization 均已fork ssr所有项目
 
