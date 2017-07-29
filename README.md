@@ -8,7 +8,7 @@
 
 * SSR c# https://github.com/shadowsocksrr/shadowsocksr-csharp
 
-* SSR libev https://github.com/shadowsocksrr/shadowsocksr-libev
+* SSR libev https://github.com/shadowsocksr-rm/shadowsocksr-libev
 
 * SSR X NG https://github.com/shadowsocksr-rm/ShadowsocksX-NG
 
