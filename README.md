@@ -2,7 +2,7 @@
 
 ## 各项目fork链接
 
-* SSR python  https://github.com/shadowsocksrr/shadowsocksr
+* SSR python  https://github.com/shadowsocksr-rm/shadowsocksr
 
 * SSR android https://github.com/shadowsocksrr/shadowsocksr-android
 
