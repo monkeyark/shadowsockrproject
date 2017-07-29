@@ -43,7 +43,7 @@ Main branch
   
 * qinyuhang/shadowsocksX-NG-R-ACL https://github.com/qinyuhang/shadowsocksX-NG-R-ACL
   
-  fork https://github.com/shadowsocksr-rm/shadowsocksX-NG-R-ACL
+  fork https://github.com/shadowsocksr-rm/shadowsocksX-NG-R-ACL
 
 ## forkd organization
 
