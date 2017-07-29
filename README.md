@@ -2,6 +2,8 @@
 
 ## 各项目fork链接
 
+Main branch
+
 * SSR python  https://github.com/shadowsocksr-rm/shadowsocksr
 
 * SSR android https://github.com/shadowsocksr-rm/shadowsocksr-android
@@ -29,6 +31,15 @@
   fork
 
   https://github.com/shadowsocksr-rm/openwrt-shadowsocksr
+  
+* luci-app-shadowsocks
+  
+  https://github.com/shadowsocks/luci-app-shadowsocks
+  
+  fork
+  
+  https://github.com/shadowsocksr-rm/luci-app-shadowsocksr
+  
 
 ### other
 
@@ -41,6 +52,14 @@
 * pubkey https://github.com/breakwa11/pubkey
 
   backup fork Ssrbackup/pubkey
+  
+* qinyuhang/shadowsocksX-NG-R-ACL
+
+  https://github.com/qinyuhang/shadowsocksX-NG-R-ACL
+  
+  fork
+  
+  https://github.com/shadowsocksr-rm/shadowsocksX-NG-R-ACL
 
 ## forkd organization
 
