@@ -4,7 +4,7 @@
 
 * SSR python  https://github.com/shadowsocksr-rm/shadowsocksr
 
-* SSR android https://github.com/shadowsocksrr/shadowsocksr-android
+* SSR android https://github.com/shadowsocksr-rm/shadowsocksr-android
 
 * SSR c# https://github.com/shadowsocksrr/shadowsocksr-csharp
 
