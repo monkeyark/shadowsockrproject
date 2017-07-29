@@ -24,15 +24,15 @@
 
   backup forkd Ssrbackup/pubkey
 
-### forkd organization
+## forkd organization
 
 以下三个organization 均已fork ssr所有项目
 
-http://github.com/shadowsocksr-rm
+1. http://github.com/shadowsocksr-rm
 
-http://github.com/shadowsocksrr
+2. http://github.com/shadowsocksrr
 
-http://github.com/shadowsocksr-backup
+3. http://github.com/shadowsocksr-backup
 
 
 由建立时间前后排序
