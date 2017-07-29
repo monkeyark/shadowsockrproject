@@ -14,6 +14,22 @@
 
 * shadowsocks-rss https://github.com/shadowsocksr-rm/shadowsocks-rss
 
+* openwrt-shadowsocksR-libev-full
+
+  https://github.com/bettermanbao/openwrt-shadowsocksR-libev-full/tree/master
+
+  forkd
+
+  https://github.com/shadowsocksr-rm/openwrt-shadowsocksR-libev-full/tree/master
+
+* openwrt-shadowsocks
+
+ https://github.com/shadowsocks/openwrt-shadowsocks
+
+ forkd 
+
+ https://github.com/shadowsocksr-rm/openwrt-shadowsocksr
+
 ### other
 
 * breakwa11.github.io fork 14days ago(20170729)
