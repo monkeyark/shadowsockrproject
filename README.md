@@ -74,7 +74,7 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
 * SSR android   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/android%20client/ssr_3.4.0.6.apk
 
-* SSR c#  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/windows%20client/ShadowsocksR-win-4.7.0.zip
+* SSR c#  https://github.com/esdeathlove/panel-download/raw/master/ssr-win.7z
  
   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip (修复pac功能 来自tg @hinext)
   
