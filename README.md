@@ -76,7 +76,7 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
 * SSR c#  https://github.com/esdeathlove/panel-download/raw/master/ssr-win.7z
  
-  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip (修复pac功能 来自tg @hinext)<br>
+  https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip (修复pac功能 来自tg @hinext version4.7)<br>
   https://github.com/Ssrbackup/shadowsocks-rss/raw/master/Revision/ShadowsocksR.exe (修复pac功能 来自tg @spamuser version4.7)
   
   
