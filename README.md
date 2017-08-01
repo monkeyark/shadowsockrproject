@@ -62,7 +62,9 @@
 
 下载试用第三方提供的客户端建议 校验签名 sha1 md5
 
-校验breakwa11 win客户端签名的方法 https://youtu.be/LFP82gnaSFc
+校验breakwa11 win客户端签名的方法 
+
+安全原因  请联系@spamuser
 
 ### wiki备份
 
