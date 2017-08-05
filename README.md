@@ -1,7 +1,5 @@
 ## ShadowsocksR project backup
 
-------------
-
 ### fork organization
 
 以下三个organization 均已fork ssr所有项目
@@ -14,22 +12,22 @@
 
 由建立时间前后排序
 
-------------
+#### 主要分支请前往
 
-主要分支请前往 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/backup-ssr.md
+https://github.com/Ssrbackup/shadowsocks-rss/blob/master/backup-ssr.md
+
+**other**
 
 breakwa11.github.io https://github.com/solomasters/breakwa11.github.io/tree/master
 
 pubkey  https://github.com/Ssrbackup/pubkey
 
-------------
-
-### wiki备份
+#### wiki备份
 
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
-------------
-## 常见问题
+
+### 常见问题
 
 Q.1 pac无法更新
 
@@ -57,4 +55,3 @@ Q.1 pac无法更新
 **请联系tg https://t.me/Spamuser**
 
 **或者邮件至 ssr.project.backup@gmail.com**
-
