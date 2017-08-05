@@ -1,10 +1,6 @@
 # ShadowsocksR project backup
 
-### 各项目fork链接
-
 主要分支请前往 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/backup-ssr.md
-
-## other project
 
 * breakwa11.github.io fork 14days ago (20170729)  https://github.com/solomasters/breakwa11.github.io/tree/master
 
@@ -15,16 +11,7 @@
 * qinyuhang/shadowsocksX-NG-R-ACL https://github.com/qinyuhang/shadowsocksX-NG-R-ACL
   
   fork https://github.com/shadowsocksr-rm/shadowsocksX-NG-R-ACL
- 
-### update
 
-shadowsocksr-backup/shadowsocksr-libev (添加了 auth_chain_b)
-
-https://github.com/shadowsocksr-backup/shadowsocksr-libev
-
-shadowsocksr-backup/shadowsocksr-android (添加了 suth_chain_b 的支持)
-
-https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
   
 
 ### fork organization
