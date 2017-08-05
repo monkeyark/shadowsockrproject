@@ -22,7 +22,13 @@ pubkey  https://github.com/Ssrbackup/pubkey
 
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
-### 常用客户端
+## 常见问题
+
+Q.1 pac无法更新
+
+请前往 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/qa.md
+
+### 常用客户端下载
 
 #### 注意
 
@@ -40,7 +46,6 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
 ### 历史版本请前往对应文件夹
 
 以上为原版记录
-
 
 
 
