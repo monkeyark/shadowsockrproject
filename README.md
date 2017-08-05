@@ -41,8 +41,9 @@ Q.1 pac无法更新
 
 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/client.md
 
+**感谢以下网友提供客户端备份**
+```Alen Gali``` ```bowlkk kk```	
+
 **内容有错误 或者有问题**
-
-
 >**请联系tg https://t.me/Spamuser**<br>
 **或者邮件至 ssr.project.backup@gmail.com**
