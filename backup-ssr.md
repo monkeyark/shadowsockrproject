@@ -25,3 +25,5 @@
 * luci-app-shadowsocks https://github.com/shadowsocks/luci-app-shadowsocks
   
   fork https://github.com/shadowsocksr-rm/luci-app-shadowsocks
+
+* qinyuhang/shadowsocksX-NG-R-ACL https://github.com/qinyuhang/shadowsocksX-NG-R-ACL
