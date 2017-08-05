@@ -1,6 +1,6 @@
 ## ShadowsocksR project backup
 
-### fork organization
+## fork organization
 
 以下三个organization 均已fork ssr所有项目
 
@@ -36,7 +36,7 @@ Q.1 pac无法更新
 
 请前往 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/qa.md
 
-### 常用客户端下载
+#### 常用客户端下载
 
 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/client.md
 
