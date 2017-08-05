@@ -18,10 +18,6 @@ breakwa11.github.io https://github.com/solomasters/breakwa11.github.io/tree/mast
 
 pubkey  https://github.com/Ssrbackup/pubkey
 
-## 注意
-
-下载试用第三方提供的客户端建议 校验签名 sha1 md5
-
 ### wiki备份
 
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
@@ -34,7 +30,11 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
 克隆自ssr fork项目 zip文件 linux系统请按装 unzip   使用命令  `unzip 文件名解压`
 
-#### 常用客户端
+### 常用客户端
+
+#### 注意
+
+下载试用第三方提供的客户端建议 校验签名 sha1 md5
 
 * SSR android   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/android%20client/ssr_3.4.0.6.apk
 
