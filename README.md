@@ -1,12 +1,6 @@
 # ShadowsocksR project backup
 
-主要分支请前往 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/backup-ssr.md
-
-breakwa11.github.io https://github.com/solomasters/breakwa11.github.io/tree/master
-
-pubkey  https://github.com/Ssrbackup/pubkey
-
-### fork organization
+#### fork organization
 
 以下三个organization 均已fork ssr所有项目
 
@@ -16,16 +10,17 @@ pubkey  https://github.com/Ssrbackup/pubkey
 
 3. http://github.com/shadowsocksr-backup
 
-
 由建立时间前后排序
+
+主要分支请前往 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/backup-ssr.md
+
+breakwa11.github.io https://github.com/solomasters/breakwa11.github.io/tree/master
+
+pubkey  https://github.com/Ssrbackup/pubkey
 
 ## 注意
 
 下载试用第三方提供的客户端建议 校验签名 sha1 md5
-
-校验breakwa11 win客户端签名的方法 
-
-安全原因  请联系@spamuser
 
 ### wiki备份
 
