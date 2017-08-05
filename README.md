@@ -98,8 +98,8 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 * SSR android   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/android%20client/ssr_3.4.0.6.apk
 
 * shadowsocksr-backup/shadowsocksr-android (添加了 suth_chain_b 的支持)
-  
-  https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
+
+https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
 
 * SSR c#  https://github.com/esdeathlove/panel-download/raw/master/ssr-win.7z
  
