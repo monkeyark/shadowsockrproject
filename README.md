@@ -44,7 +44,7 @@ https://github.com/Ssrbackup/shadowsocks-rss/blob/master/client.md
 
 #### 历史版本请前往对应文件夹
 
-** 内容有错误 或者有问题 **
+**内容有错误 或者有问题**
 
 >**请联系tg https://t.me/Spamuser**
 
