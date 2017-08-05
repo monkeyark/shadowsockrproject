@@ -22,9 +22,13 @@ breakwa11.github.io https://github.com/solomasters/breakwa11.github.io/tree/mast
 
 pubkey  https://github.com/Ssrbackup/pubkey
 
+------------
+
 ### wiki备份
 
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
+
+------------
 
 ## 常见问题
 
@@ -48,10 +52,6 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
 
 
 ### 历史版本请前往对应文件夹
-
-以上为原版记录
-
-
 
 内容有错误 或者有问题 
 
