@@ -36,7 +36,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
 
 * SSR c#  https://github.com/esdeathlove/panel-download/raw/master/ssr-win.7z
  
-### pac
+## pac 无法更新
 
 因为breakwa11的breakwa11.github.io项目删除 导致pac功能无法更新
 
@@ -49,8 +49,6 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
    https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip (修复pac功能 来自tg @hinext version4.7)
    
    https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/ShadowsocksR.zip (修复pac功能 来自tg @spamuser version4.7)
-  
-  
   
 更多请前往fork 下载使用
 
