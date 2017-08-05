@@ -1,32 +1,20 @@
 # ShadowsocksR project backup
 
-## 各项目fork链接
+### 各项目fork链接
 
-  Main branch
+主要分支请前往 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/backup-ssr.md
 
-* SSR python  https://github.com/shadowsocksr-rm/shadowsocksr
+## other project
 
-* SSR android https://github.com/shadowsocksr-rm/shadowsocksr-android
+* breakwa11.github.io fork 14days ago (20170729)  https://github.com/solomasters/breakwa11.github.io/tree/master
 
-* SSR c# https://github.com/shadowsocksrr/shadowsocksr-csharp
+  backup fork Ssrbackup/reakwa11.github.io
 
-* SSR libev https://github.com/shadowsocksr-rm/shadowsocksr-libev
-
-* SSR X NG https://github.com/shadowsocksr-rm/ShadowsocksX-NG
-
-* shadowsocks-rss https://github.com/shadowsocksr-rm/shadowsocks-rss
-
-* openwrt-shadowsocksR-libev-full https://github.com/bettermanbao/openwrt-shadowsocksR-libev-full/tree/master
-
-  fork https://github.com/shadowsocksr-rm/openwrt-shadowsocksR-libev-full/tree/master
-
-* openwrt-shadowsocks https://github.com/shadowsocks/openwrt-shadowsocks
-
-  fork https://github.com/shadowsocksr-rm/openwrt-shadowsocksr
+* pubkey https://github.com/breakwa11/pubkey backup fork Ssrbackup/pubkey
+  
+* qinyuhang/shadowsocksX-NG-R-ACL https://github.com/qinyuhang/shadowsocksX-NG-R-ACL
   
-* luci-app-shadowsocks https://github.com/shadowsocks/luci-app-shadowsocks
-  
-  fork https://github.com/shadowsocksr-rm/luci-app-shadowsocks
+  fork https://github.com/shadowsocksr-rm/shadowsocksX-NG-R-ACL
  
 ### update
 
@@ -38,27 +26,6 @@ shadowsocksr-backup/shadowsocksr-android (添加了 suth_chain_b 的支持)
 
 https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
   
-## other project
-
-* breakwa11.github.io fork 14days ago(20170729)
-
-  https://github.com/solomasters/breakwa11.github.io/tree/master
-
-  backup fork Ssrbackup/reakwa11.github.io
-
-* pubkey https://github.com/breakwa11/pubkey
-
-  backup fork Ssrbackup/pubkey
-  
-* qinyuhang/shadowsocksX-NG-R-ACL https://github.com/qinyuhang/shadowsocksX-NG-R-ACL
-  
-  fork https://github.com/shadowsocksr-rm/shadowsocksX-NG-R-ACL
- 
-### other
-  
-
-  
-  
 
 ### fork organization
 
