@@ -46,6 +46,7 @@ https://github.com/Ssrbackup/shadowsocks-rss/blob/master/client.md
 
 **内容有错误 或者有问题**
 
->**请联系tg https://t.me/Spamuser**
 
->**或者邮件至 ssr.project.backup@gmail.com**
+``` **请联系tg https://t.me/Spamuser**```
+
+```**或者邮件至 ssr.project.backup@gmail.com** ```
