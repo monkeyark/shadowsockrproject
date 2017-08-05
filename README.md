@@ -2,17 +2,9 @@
 
 主要分支请前往 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/backup-ssr.md
 
-* breakwa11.github.io fork 14days ago (20170729)  https://github.com/solomasters/breakwa11.github.io/tree/master
+breakwa11.github.io https://github.com/solomasters/breakwa11.github.io/tree/master
 
-  backup fork Ssrbackup/reakwa11.github.io
-
-* pubkey https://github.com/breakwa11/pubkey backup fork Ssrbackup/pubkey
-  
-* qinyuhang/shadowsocksX-NG-R-ACL https://github.com/qinyuhang/shadowsocksX-NG-R-ACL
-  
-  fork https://github.com/shadowsocksr-rm/shadowsocksX-NG-R-ACL
-
-  
+pubkey  https://github.com/Ssrbackup/pubkey
 
 ### fork organization
 
