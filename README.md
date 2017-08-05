@@ -30,6 +30,7 @@ https://github.com/Ssrbackup/shadowsocks-rss/blob/master/code-backup.md
 
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
+------------
 #### 常见问题
 
 Q.1 pac无法更新
@@ -39,6 +40,7 @@ Q.1 pac无法更新
 #### 常用客户端下载
 
 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/client.md
+
 
 #### 历史版本请前往对应文件夹
 
