@@ -35,7 +35,7 @@ shadowsocksr-backup/shadowsocksr-libev (添加了 auth_chain_b)
 https://github.com/shadowsocksr-backup/shadowsocksr-libev
 
 shadowsocksr-backup/shadowsocksr-android (添加了 suth_chain_b 的支持)
-  
+
 https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
   
 ## other project
