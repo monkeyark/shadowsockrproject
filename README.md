@@ -1,6 +1,8 @@
-# ShadowsocksR project backup
+## ShadowsocksR project backup
 
-## fork organization
+------------
+
+### fork organization
 
 以下三个organization 均已fork ssr所有项目
 
@@ -11,6 +13,8 @@
 3. http://github.com/shadowsocksr-backup
 
 由建立时间前后排序
+
+------------
 
 主要分支请前往 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/backup-ssr.md
 
