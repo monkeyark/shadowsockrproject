@@ -26,10 +26,19 @@
   
 * luci-app-shadowsocks https://github.com/shadowsocks/luci-app-shadowsocks
   
-  fork https://github.com/shadowsocksr-rm/luci-app-shadowsocksr
-  
+  fork https://github.com/shadowsocksr-rm/luci-app-shadowsocks
+ 
+### update
 
-## other
+shadowsocksr-backup/shadowsocksr-libev (添加了 auth_chain_b)
+
+https://github.com/shadowsocksr-backup/shadowsocksr-libev
+
+shadowsocksr-backup/shadowsocksr-android (添加了 suth_chain_b 的支持)
+  
+https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
+  
+## other project
 
 * breakwa11.github.io fork 14days ago(20170729)
 
@@ -44,6 +53,12 @@
 * qinyuhang/shadowsocksX-NG-R-ACL https://github.com/qinyuhang/shadowsocksX-NG-R-ACL
   
   fork https://github.com/shadowsocksr-rm/shadowsocksX-NG-R-ACL
+ 
+### other
+  
+
+  
+  
 
 ### fork organization
 
@@ -82,6 +97,10 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
 * SSR android   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/android%20client/ssr_3.4.0.6.apk
 
+* shadowsocksr-backup/shadowsocksr-android (添加了 suth_chain_b 的支持)
+  
+  https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
+
 * SSR c#  https://github.com/esdeathlove/panel-download/raw/master/ssr-win.7z
  
 ### pac
@@ -103,6 +122,10 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 更多请前往fork 下载使用
 
 ### 历史版本请前往对应文件夹
+
+以上为原版记录
+
+
 
 
 内容有错误 或者有问题 
