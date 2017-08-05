@@ -10,7 +10,6 @@
 
 3. http://github.com/shadowsocksr-backup
 
-------------
 由建立时间前后排序
 
 #### 主要分支请前往
@@ -23,19 +22,21 @@ breakwa11.github.io https://github.com/solomasters/breakwa11.github.io/tree/mast
 
 pubkey  https://github.com/Ssrbackup/pubkey
 
+#### 代码备份
+
+https://github.com/Ssrbackup/shadowsocks-rss/blob/master/code-backup.md
+
 #### wiki备份
 
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
-
-------------
 #### 常见问题
 
 Q.1 pac无法更新
 
 请前往 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/qa.md
 
-#### 常用客户端下载
+### 常用客户端下载
 
 **注意**
 
@@ -50,7 +51,7 @@ Q.1 pac无法更新
 -  shadowsocksr-backup/shadowsocksr-android (添加了 suth_chain_b 的支持)
     https://github.com/shadowsocksr-backup/shadowsocksr-android/releases
 
-#### 历史版本请前往对应文件夹
+### 历史版本请前往对应文件夹
 
 **内容有错误 或者有问题 **
 
