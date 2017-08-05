@@ -10,6 +10,7 @@
 
 3. http://github.com/shadowsocksr-backup
 
+------------
 由建立时间前后排序
 
 #### 主要分支请前往
@@ -27,13 +28,14 @@ pubkey  https://github.com/Ssrbackup/pubkey
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
 
-### 常见问题
+------------
+#### 常见问题
 
 Q.1 pac无法更新
 
 请前往 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/qa.md
 
-### 常用客户端下载
+#### 常用客户端下载
 
 **注意**
 
