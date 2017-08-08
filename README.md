@@ -35,7 +35,7 @@ https://github.com/Ssrbackup/shadowsocks-rss/blob/master/Introduction%20to%20fol
 
 ```Alen Gali``` ```bowlkk kk```	
 
-——————————————————————————————————————————————————————
+<h1></h1>
 
 **内容有错误 或者有问题**
 >**请联系tg https://t.me/Spamuser**<br>
