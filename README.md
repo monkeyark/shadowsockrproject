@@ -2,15 +2,7 @@
 
 ## fork organization
 
-以下三个organization 均已fork ssr所有项目
-
-1. http://github.com/shadowsocksr-rm
-
-2. http://github.com/shadowsocksrr
-
-3. http://github.com/shadowsocksr-backup
-
-由建立时间前后排序
+ http://github.com/shadowsocksr-rm
 
 #### 主要分支请前往
 
