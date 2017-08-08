@@ -36,7 +36,7 @@ https://github.com/Ssrbackup/shadowsocks-rss/blob/master/Introduction%20to%20fol
 
 ssr project backup 以上
 
-------
+-------------
 以下为其他
 
 **内容有错误 或者有问题**
