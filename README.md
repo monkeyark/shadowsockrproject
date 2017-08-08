@@ -4,23 +4,17 @@
 
  http://github.com/shadowsocksr-rm
 
-#### 主要分支请前往
-
-https://github.com/Ssrbackup/shadowsocks-rss/blob/master/backup-ssr.md
-
 **other**
 
-breakwa11.github.io https://github.com/solomasters/breakwa11.github.io/tree/master
-
 pubkey  https://github.com/Ssrbackup/pubkey
-
-#### 代码备份
-
-https://github.com/Ssrbackup/shadowsocks-rss/blob/master/code-backup.md
 
 #### wiki备份
 
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
+
+#### 代码备份
+
+https://github.com/Ssrbackup/shadowsocks-rss/blob/master/code-backup.md
 
 ------------
 #### 常见问题
