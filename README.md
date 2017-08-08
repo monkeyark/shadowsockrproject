@@ -16,15 +16,20 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/code-backup.md
 
+#### 常用客户端下载
+
+https://github.com/Ssrbackup/shadowsocks-rss/blob/master/client.md
+
 #### 常见问题
 
 Q.1 pac无法更新
 
 请前往 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/qa.md
 
-#### 常用客户端下载
 
-https://github.com/Ssrbackup/shadowsocks-rss/blob/master/client.md
+#### project文件夹简介
+
+https://github.com/Ssrbackup/shadowsocks-rss/blob/master/Introduction%20to%20folders.md
 
 **感谢以下网友提供客户端备份**
 ```Alen Gali``` ```bowlkk kk```	
