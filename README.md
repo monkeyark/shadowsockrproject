@@ -8,13 +8,13 @@
 
 pubkey  https://github.com/Ssrbackup/pubkey
 
-#### wiki备份
+### wiki备份
 
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
-#### 常用客户端下载
+### 常用客户端下载
 
-注意
+**注意**
 
 下载使用第三方提供的客户端建议 校验签名 sha1 md5
 
@@ -34,7 +34,7 @@ SSR c# 4.7.0  [download](https://github.com/esdeathlove/panel-download/raw/maste
 
 - [download](https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip) (来自tg @hinext version4.7)
   
-#### project文件夹简介
+### project文件夹简介
 
 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/Introduction%20to%20folders.md
 
