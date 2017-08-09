@@ -22,9 +22,7 @@ SSR android 3.4.0.6  [download](https://github.com/Ssrbackup/shadowsocks-rss/bl
 
 SSR c# 4.7.0  [download](https://github.com/esdeathlove/panel-download/raw/master/ssr-win.7z) 签名校验 [youtube link](https://youtu.be/LLuUTQgEIJ4)
 
-### pac无法更新
-
-因为breakwa11的breakwa11.github.io项目删除 导致pac功能无法更新
+pac无法更新? 因为breakwa11的breakwa11.github.io项目删除 导致pac功能无法更新
 
 修复方法 https://t.me/ssr_backup/35 (请先登录tg客户端)
 
