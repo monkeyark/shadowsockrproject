@@ -30,9 +30,9 @@ SSR c# 4.7.0  [download](https://github.com/esdeathlove/panel-download/raw/maste
 
 以下提供两份修复客户端  酌情考虑使用
 
-   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip (修复pac功能 来自tg @hinext version4.7)
-   
-   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/ShadowsocksR.zip (修复pac功能 来自tg @spamuser version4.7)
+- [download](https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/ShadowsocksR.zip) (来自tg @spamuser version4.7)
+
+- [download](https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip) (来自tg @hinext version4.7)
   
 #### project文件夹简介
 
