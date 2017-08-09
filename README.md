@@ -14,23 +14,30 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
 #### 常用客户端下载
 
-常用客户端下载
-
 注意
 
 下载试用第三方提供的客户端建议 校验签名 sha1 md5
+
+签名校验 [youtube link](https://youtu.be/LLuUTQgEIJ4)
 
 SSR android 3.4.0.6  [download](https://github.com/Ssrbackup/shadowsocks-rss/blob/master/latestver/ssr_3.4.0.6.apk?raw=true)
 
 SSR c# 4.7.0  [download](https://github.com/esdeathlove/panel-download/raw/master/ssr-win.7z)
 
-#### 常见问题
+#### pac无法更新
 
-Q.1 pac无法更新
+因为breakwa11的breakwa11.github.io项目删除 导致pac功能无法更新
 
-请前往 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/qa.md
+修复方法
 
+请登录tg客户端 https://t.me/ssr_backup/35
 
+以下提供两份修复客户端  酌情考虑使用
+
+   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip (修复pac功能 来自tg @hinext version4.7)
+   
+   https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/ShadowsocksR.zip (修复pac功能 来自tg @spamuser version4.7)
+  
 #### project文件夹简介
 
 https://github.com/Ssrbackup/shadowsocks-rss/blob/master/Introduction%20to%20folders.md
