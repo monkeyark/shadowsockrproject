@@ -18,9 +18,13 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
 下载使用第三方提供的客户端建议 校验签名 sha1 md5
 
-SSR android 3.4.0.6  [download](https://github.com/Ssrbackup/shadowsocks-rss/blob/master/latestver/ssr_3.4.0.6.apk?raw=true)
+SSR android 3.4.0.6  [download](https://github.com/esdeathlove/panel-download/blob/master/ssr-android.apk?raw=true) 
 
-SSR c# 4.7.0  [download](https://github.com/esdeathlove/panel-download/raw/master/ssr-win.7z) 签名校验 [youtube link](https://youtu.be/LLuUTQgEIJ4)
+```md5 b9fe97b976a56b6fee99817a47a5f159 ```
+
+```sha1 119075e15d407807b44cab9a5c490b4ce0834ac6 ```
+
+SSR C# 4.7.0  [download](https://github.com/esdeathlove/panel-download/raw/master/ssr-win.7z) 签名校验 [youtube link](https://youtu.be/LLuUTQgEIJ4)
 <h1></h1>
 <b>pac无法更新?</b>  因为breakwa11的breakwa11.github.io项目删除 导致pac功能无法更新
 
