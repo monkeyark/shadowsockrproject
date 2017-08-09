@@ -32,9 +32,7 @@ SSR c# 4.7.0  [download](https://github.com/esdeathlove/panel-download/raw/maste
 
 - [download](https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip) (来自tg @hinext version4.7)
   
-### project文件夹简介
-
-https://github.com/Ssrbackup/shadowsocks-rss/blob/master/Introduction%20to%20folders.md
+##3# project文件夹简介[link](https://github.com/Ssrbackup/shadowsocks-rss/blob/master/Introduction%20to%20folders.md)
 
 **感谢以下网友提供客户端备份**
 
