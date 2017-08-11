@@ -6,7 +6,7 @@ SSR全称是什么？
 
 本项目并不是SSR的整合 而是 SSR备份的整合
 
-原版聚合https://github.com/shadowsocksr-backup/shadowsocks-rss
+原版整合https://github.com/shadowsocksr-backup/shadowsocks-rss
 
 #### 备份组织
 
