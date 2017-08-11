@@ -1,5 +1,13 @@
 <h1>ShadowsocksR project backup</h1>
 
+SSR全称是什么？
+
+正确为ShadowsocksR，有人称之为Shadowsocks-rss是错误的，rss是真正简单的整合(Really Simple Syndication)的缩写
+
+本项目并不是SSR的整合 而是 SSR备份的整合
+
+原版聚合https://github.com/shadowsocksr-backup/shadowsocks-rss
+
 #### 备份组织
 
  http://github.com/shadowsocksr-rm
