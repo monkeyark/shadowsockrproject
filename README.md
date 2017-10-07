@@ -12,13 +12,11 @@ SSR全称是什么？
 
  http://github.com/shadowsocksr-rm
  
- http://github.com/shadowsocksrr
-
  http://github.com/shadowsocksr-backup
+ 
+ >https://github.com/ssrbackup/shadowsocks-rss/issues/4
 
 由建立时间前后排序
- 
-三个备份组织 好像都有修改了  可以用本账户的fork
 
 **其他备份**
 
