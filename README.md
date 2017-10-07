@@ -14,9 +14,7 @@ SSR全称是什么？
  
  http://github.com/shadowsocksr-backup
  
- >https://github.com/ssrbackup/shadowsocks-rss/issues/4
-
-由建立时间前后排序
+由建立时间前后排序[link](https://github.com/ssrbackup/shadowsocks-rss/issues/4)
 
 **其他备份**
 
