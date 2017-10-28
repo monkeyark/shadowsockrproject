@@ -6,7 +6,7 @@ SSR全称是什么？
 
 本项目内容：`SSR项目备份` `常见问题` 以及 `SSR备份组织收录`
 
-**原版备份**  
+**原版项目备份**  
 
 https://github.com/shadowsocksr-backup
  
