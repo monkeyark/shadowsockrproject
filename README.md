@@ -12,7 +12,7 @@ https://github.com/shadowsocksr-backup
  
 **其他备份**
 
-```pubkey```  https://github.com/Ssrbackup/pubkey
+pubkey  https://github.com/Ssrbackup/pubkey
 
 #### wiki备份
 
