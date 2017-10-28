@@ -22,7 +22,7 @@ https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
 
  http://github.com/shadowsocksr-rm  少量修改见 [link](https://github.com/ssrbackup/shadowsocks-rss/issues/4) 
 
-#### 常用客户端下载
+#### 常用客户端下载  ```最后一版```
 
 **注意**
 
