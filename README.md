@@ -4,9 +4,11 @@ SSR全称是什么？
 
 正确为ShadowsocksR，有人称之为Shadowsocks-rss是错误的，rss是真正简单的整合(Really Simple Syndication)的缩写
 
-本项目并不是SSR的整合 而是 SSR备份的整合 
+本项目内容：`SSR项目备份` `常见问题` 以及 `SSR备份组织收录`
 
-**原版备份**  https://github.com/shadowsocksr-backup
+**原版备份**  
+
+https://github.com/shadowsocksr-backup
  
 **其他备份**
 
@@ -47,6 +49,7 @@ SSR C# 4.7.0  [download](https://github.com/esdeathlove/panel-download/raw/maste
 ### other
 
 **shadowsocksrr分支**  [link](https://github.com/shadowsocksrr)
+
 <h1></h1>
 
 ### other backup project
